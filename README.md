@@ -14,7 +14,7 @@ Hacktoberfest resources
 - Textbook: https://natureofcode.com/particles/
 - Follow-along: https://editor.p5js.org/
     - in browser, no AI version
-    - ^will be mostly doing this without AI for learning purposes
+    - if you want to follow-along the AI route, we'll be using [opencode](https://opencode.ai/)
 - Code from stream:
     - to be added after stream
 
