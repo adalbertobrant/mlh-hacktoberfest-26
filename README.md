@@ -47,4 +47,25 @@ Some stuff I didn't get to
 
 ## Session 04 - Running Local AI Models with Ollama and OpenCode
 
+> In this session, we'll do a build-along for a QR-code generator project, talk about tools vs processes, code ownership, big tech, big data, creative attributions, remixing culture, and licenses.
+
+QR Codes
+- [QR Code by hand](https://qr.blinry.org/)
+- [QR Code Algorithms](https://franckybox.com/wp-content/uploads/qrcode.pdf)
+
+Tools
+- [Ollama](https://ollama.com/)
+- [Opencode](https://opencode.ai/)
+
+Processes
+- [Software development life cycle](https://www.geeksforgeeks.org/software-engineering/software-development-life-cycle-sdlc/)
+
+Ownership
+- [Use-Modify-Create](https://textbooks.cs.ksu.edu/tlcs/4-designing-cs-lessons/04-use-modify-create/)
+- [Remix Culture](https://en.wikipedia.org/wiki/Remix_culture)
+- [Modding Culture](https://en.wikipedia.org/wiki/Video_game_modding)
+- [Fair Use](https://www.copyright.gov/fair-use/)
+- [Choose a license](https://choosealicense.com/)
+- [Trademark, patent, copyright](https://www.uspto.gov/trademarks/basics/trademark-patent-copyright)
+
 ## Session 05 - Building Your Own Skills with OpenCode
